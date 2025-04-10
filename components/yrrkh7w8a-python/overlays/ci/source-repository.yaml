@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yrrkh7w8a-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/yrrkh7w8a-python
